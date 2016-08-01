@@ -1,0 +1,9 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+authors = ["David Haynes <david.haynes@cds.co.uk>"]
+
+[dependencies]
+time = "0.1.12"
+regex = "0.1.41"
+
